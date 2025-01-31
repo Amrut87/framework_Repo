@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
   <name>SeleniumProject</name>
@@ -15,4 +16,23 @@
     <nature>org.eclipse.jdt.core.javanature</nature>
     <nature>org.eclipse.m2e.core.maven2Nature</nature>
   </natures>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>SeleniumProject</name>
+  <comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+    <buildCommand>
+      <name>org.eclipse.m2e.core.maven2Builder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+    <nature>org.eclipse.m2e.core.maven2Nature</nature>
+  </natures>
+>>>>>>> e1426d6e818b09b11e1f8d0e66b1d3b6c3674114
 </projectDescription>

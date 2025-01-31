@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
@@ -29,3 +30,36 @@
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-31T19:19:30 IST" name="Suite" finished-at="2025-01-31T19:19:30 IST" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2025-01-31T19:19:30 IST" name="Test" finished-at="2025-01-31T19:19:30 IST" duration-ms="60">
+      <class name="Package1.ContactTest">
+        <test-method signature="createContactTest()[pri:0, instance:Package1.ContactTest@1d119efb]" started-at="2025-01-31T19:19:30 IST" name="createContactTest" finished-at="2025-01-31T19:19:30 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method signature="modifyContactTest()[pri:0, instance:Package1.ContactTest@1d119efb]" started-at="2025-01-31T19:19:30 IST" name="modifyContactTest" finished-at="2025-01-31T19:19:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyContactTest -->
+      </class> <!-- Package1.ContactTest -->
+      <class name="Package2.OrgTest">
+        <test-method signature="modifyOrgTest()[pri:0, instance:Package2.OrgTest@4c9f8c13]" started-at="2025-01-31T19:19:30 IST" name="modifyOrgTest" finished-at="2025-01-31T19:19:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOrgTest -->
+        <test-method signature="createOrgTest()[pri:0, instance:Package2.OrgTest@4c9f8c13]" started-at="2025-01-31T19:19:30 IST" name="createOrgTest" finished-at="2025-01-31T19:19:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+      </class> <!-- Package2.OrgTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
+>>>>>>> e1426d6e818b09b11e1f8d0e66b1d3b6c3674114

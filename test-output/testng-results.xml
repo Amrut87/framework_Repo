@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
@@ -15,3 +16,22 @@
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-31T11:01:52 IST" name="Default suite" finished-at="2025-01-31T11:01:52 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2025-01-31T11:01:52 IST" name="Default test" finished-at="2025-01-31T11:01:52 IST" duration-ms="90">
+      <class name="Package1.ContactTest">
+        <test-method signature="modifyContactTest()[pri:0, instance:Package1.ContactTest@1623b78d]" started-at="2025-01-31T11:01:52 IST" name="modifyContactTest" finished-at="2025-01-31T11:01:52 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyContactTest -->
+      </class> <!-- Package1.ContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+>>>>>>> e1426d6e818b09b11e1f8d0e66b1d3b6c3674114
